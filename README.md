@@ -2,7 +2,7 @@
 
 Passionate Java and C++ Developer | Problem Solver | Open Source Enthusiast
 
-Welcome to my GitHub profile! I'm a dedicated software engineer with a focus on both Java and C++ development. With a strong foundation in these languages, I'm on a mission to create elegant and efficient software solutions that tackle complex challenges.
+Welcome to my GitHub profile! I'm a dedicated software developer with a focus on both Java and C++ development. With a strong foundation in these languages, I'm on a mission to create elegant and efficient software solutions that tackle complex challenges.
 
 ### 🌟 What I Do
 
