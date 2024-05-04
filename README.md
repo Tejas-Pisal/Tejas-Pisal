@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tejas-pisal2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-pisal2002" height="30" width="40" /></a>
 <a href="https://instagram.com/_tejas_pisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tejas_pisal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codenetwork-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenetwork-2002" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeNetwork-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenetwork-2002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pisaltejas2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pisaltejas2002" height="30" width="40" /></a>
 </p>
 
