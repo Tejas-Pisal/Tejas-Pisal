@@ -26,6 +26,5 @@ Welcome to my GitHub profile! I'm a dedicated software developer with a focus on
 I love connecting with fellow developers, tech enthusiasts, and anyone passionate about Java, C++, and software development. Feel free to reach out:
 
 - 📫 Email :- pisaltejas2002@gmail.com
-- 💼 LinkedIn Profile :- https://www.linkedin.com/in/tejas-pisal-2a5053287
-
+- 💼 LinkedIn Profile :- www.linkedin.com/in/tejas-pisal2002
 Let's collaborate, innovate, and build amazing software solutions together!
